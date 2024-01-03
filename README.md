@@ -1,0 +1,1 @@
+In the studentPerformances.ipynb file are students basic statistics in math, reading and writing skills. 
