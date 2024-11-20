@@ -5,6 +5,7 @@ The objective of this project is to forecast shampoo sales using various time se
 
 ## Data used
 The data used comes from monthly shampoo sales history. The data was explored to understand trends and seasonality.
+Link to download the dataset: https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
 
 ## Methodology
 1. **Data preparation** :
@@ -29,6 +30,7 @@ The data used comes from monthly shampoo sales history. The data was explored to
 - **RMSE**: 172.37 - Indicates a large mean prediction error. 
 - **R²** : -1.36 - Suggests that the model does not explain the data variance well. 
 - **MAE** : 140.16 - Shows significant prediction errors. 
+
 ### Prophet : 
 - **RMSE** : 161.26 - Shows slight improvement over SARIMA. 
 - **R²** : -1.06 - Also indicates that the model does not explain data variance well. 
